@@ -1,9 +1,9 @@
 import requests
+from APIs import client as API
 from .Personality import PERSONALITY
 
 entry = None
 respond = None
-API = ""
 
 class Client:
   def __init__(self):

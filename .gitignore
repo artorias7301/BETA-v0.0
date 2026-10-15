@@ -22,3 +22,6 @@ thumbs.db
 
 # Local data
 *.db
+
+# APIs
+APIs.py
